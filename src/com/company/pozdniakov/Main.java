@@ -41,7 +41,6 @@ public class Main {
         System.out.println("Cars: " + veh[1]);
         System.out.println("Rollers: " + veh[2]);
         System.out.println("Jumpers: " + veh[3]);
-        // write your code here
 
 
         System.out.println("_____________________________________________________________________");
